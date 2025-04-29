@@ -69,7 +69,7 @@ http://127.0.0.1:8000/
 
 ```json
 {
-  "content": "Artificial Intelligence is transforming industries like healthcare, finance, and education. This post explores how AI is revolutionizing work, ethics, and decision-making."
+    "content": "Artificial Intelligence (AI) has revolutionized the world dramatically over the past decade. Companies across various industries are harnessing AI to automate tasks, personalize services, and gain deep insights into consumer behavior. In healthcare, AI-driven diagnostics have led to faster and more accurate detection of diseases. In the financial sector, AI algorithms monitor transactions in real-time to detect fraudulent activities. The education sector is leveraging AI for personalized learning experiences and intelligent tutoring systems. Despite these advancements, AI raises ethical concerns around bias, privacy, and job displacement. Governments and organizations are working on establishing ethical guidelines to ensure AI is developed and used responsibly. Researchers are focusing on explainable AI to make algorithms transparent and understandable to humans. The future promises even deeper integration of AI into our daily lives, with smart cities, autonomous vehicles, and virtual assistants becoming increasingly common. Preparing the workforce for AI-driven changes through reskilling and continuous education will be crucial. Businesses must strike a balance between innovation and responsibility to fully realize AI's potential while safeguarding societal interests. Artificial Intelligence is not just a technological shift; it represents a fundamental rethinking of how humanity interacts with technology, information, and each other in the 21st century."
 }
 ```
 
@@ -80,10 +80,10 @@ http://127.0.0.1:8000/
 ```json
 {
   "titles": [
-    "How AI is Transforming Every Industry",
-    "The Ethics of AI in a Changing World",
-    "AI and the Future of Human Work"
-  ]
+        "**\"The AI Revolution: Harnessing Power, Ensuring Responsibility\"**",
+        "**\"Rethinking Humanity: The Future of Artificial Intelligence and Its Impact\"**",
+        "**\"AI: Balancing Innovation with Ethics in a Rapidly Changing World\"**"
+    ]
 }
 ```
 
