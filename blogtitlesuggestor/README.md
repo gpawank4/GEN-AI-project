@@ -86,24 +86,6 @@ http://127.0.0.1:8000/
     ]
 }
 ```
-
----
-
-## 🧾 File Structure
-
-```
-blogtitlesuggestor/
-├── blog/
-│   ├── views.py
-│   ├── urls.py
-├── blogtitlesuggestor/
-│   ├── settings.py
-│   ├── urls.py
-├── manage.py
-├── requirements.txt
-└── README.md
-```
-
 ---
 
 ## 🛠 Common Issues
