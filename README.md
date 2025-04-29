@@ -18,7 +18,7 @@ darwix-assessment/
 |   └── ... requirements.txt
 |   └── ... README.md
 │
-├── transcriptdiarization/
+├── transcript\ diarization/
 │   └── ... app.py
 |   └── ... requirements.txt
 |   └── ... README.md
