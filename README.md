@@ -37,7 +37,7 @@ darwix-assessment/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/darwix-assessment.git
+git clone https://github.com/gpawank4/darwix-assessment.git
 cd darwix-assessment
 ```
 
