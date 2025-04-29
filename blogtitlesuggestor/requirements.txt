@@ -1,0 +1,5 @@
+Django
+langchain
+langchain_groq
+groq
+requests
