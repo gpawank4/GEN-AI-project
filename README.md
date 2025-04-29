@@ -14,10 +14,13 @@ darwix-assessment/
 │
 ├── blogtitlesuggestor/
 │   └── ... (Django views and utility code for title generation)
+|   └── ... manage.py
+|   └── ... requirements.txt
 |   └── ... README.md
 │
 ├── transcriptdiarization/
-│   └── ... (Streamlit app or Django-based transcription logic)
+│   └── ... app.py
+|   └── ... requirements.txt
 |   └── ... README.md
 │
 └── README.md
