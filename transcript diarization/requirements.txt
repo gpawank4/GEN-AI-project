@@ -1,0 +1,8 @@
+streamlit
+whisper
+torch
+pyannote.audio
+tqdm
+ffmpeg-python
+scikit-learn
+numpy
