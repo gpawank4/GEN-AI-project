@@ -67,7 +67,7 @@ python manage.py runserver
 
 ### 1. Blog Title Suggestion
 
-**POST** `/generate-title/`
+**POST** `/suggest-titles/`
 
 **Request Body:**
 ```json
